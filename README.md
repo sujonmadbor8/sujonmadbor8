@@ -1,4 +1,4 @@
-![I am a Junior Web Developer.](https://media-exp1.licdn.com/dms/image/C5616AQHgALL1k7pVEw/profile-displaybackgroundimage-shrink_200_800/0/1646607333857?e=1652313600&v=beta&t=v2ACuvz_IQXVTQO9EdG8v92bhW_C0DbwwxuwJAE6Zd4)
+
 ### Hi there 👋, My name is Md. Sujon.
 #### I am a Junior Web Developer.
 
