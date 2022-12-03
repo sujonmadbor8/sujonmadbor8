@@ -1,16 +1,13 @@
 
 ### Hi there 👋, My name is Md. Sujon.
-#### I am a Junior Web Developer.
+#### I am a Full Stack Web Developer.
 
 
- I am a Junior MERN stack Web Developer. I work on a different project using MongoDB, Express, React, Node Js, etc. I have used different CSS Frameworks such as Bootstrap, Material UI, Tailwind CSS, etc. I am trying to build my career as a serious web developer.
+ I work on a different project using WordPress, JQuery, MYSql etc. I have used different CSS Frameworks such as Bootstrap, Material UI, Tailwind CSS, etc. I am trying to build my career as a serious web developer.
 I am ready to have a new experience, work with new clients and learn new things. I find the idea of creating value for people and impacting the world through my work and activity.
 
-Skills: REACT / JS / HTML / CSS / MongoDB / React-router / Node JS
-
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on React JS 
-- 🤔 I’m looking for help with Angular JS  
+Skills: html, css, js, jQuery, Bootstrap, WordPress, PhP, MySql etc. 
+  
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: sujonmadbor8@gmail.com 
 
