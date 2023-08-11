@@ -7,7 +7,7 @@ I'm very passionate and dedicated to my work. With many years of experience as a
  
  I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do.
 
-Skills: HTML, CSS3, JavaScript, jQuery, Bootstrap5, WordPress,  etc. 
+Skills: HTML, CSS3, Bootstrap5, JavaScript, jQuery, WordPress, etc. 
   
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: sujonmadbor8@gmail.com 
